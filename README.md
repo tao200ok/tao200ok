@@ -9,7 +9,7 @@ I'm Taofeeq, web developer.
 - 🤝  I'm looking to collaborate on interesting projects built for the web.
 - 📫 How to reach me: [Twitter](https://twitter.com/gtktao).
 ***
-Please, **take a look around [👉](https://github.com/tao200ok?tab=repositories)**
+Please, **[take a look around 👉](https://github.com/tao200ok?tab=repositories)**
 ***
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
