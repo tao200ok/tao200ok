@@ -2,9 +2,8 @@
 Here are some ideas to get you started:-->
 
 ### Welcome 👋
-I'm Tao, web developer.
+I'm Taofeeq, web developer.
 
-- 🌍 Based in Nigeria,
 - 🔭 I'm currently working on [Jammming](http://github.com/tao200ok/jammming). 
 - 🌱 I’m learning/improving my NodeJs, ReactJs. 
 - 🤝  I'm looking to collaborate on interesting projects built for the web.
