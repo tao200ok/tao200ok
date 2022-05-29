@@ -6,12 +6,12 @@ I'm Tao, web developer.
 
 - 🌍 Based in Nigeria,
 - 🔭 I'm currently working on [Jammming](http://github.com/tao200ok/jammming). 
-- 🌱 I’m learning/improving on NodeJs, ReactJs. 
-- 🤝  I'm looking to collaborate on Interesting projects built for the web.
+- 🌱 I’m learning/improving my NodeJs, ReactJs. 
+- 🤝  I'm looking to collaborate on interesting projects built for the web.
 - 📫 How to reach me: [Twitter](https://twitter.com/gtktao).
 ***
 Please, **take a look around [👉](https://github.com/tao200ok?tab=repositories)**
-
+***
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...-->
