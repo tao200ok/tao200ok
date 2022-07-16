@@ -5,7 +5,6 @@ Here are some ideas to get you started:-->
 I'm Taofeeq, web developer.
 
 - 🔭 Checkout [my website](https://taofeeq.herokuapp.com),
-- 
 ***
 Please, **[take a look around 👉](https://github.com/tao200ok?tab=repositories)**
 ***
