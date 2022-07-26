@@ -4,7 +4,7 @@ Here are some ideas to get you started:-->
 ### Welcome 👋
 I'm Taofeeq, web developer.
 
-- 🔭 Checkout [my website](https://taofeeq.herokuapp.com),
+- 🔭 Checkout [my website](https://taofeeq.dev),
 ***
 Please, **[take a look around 👉](https://github.com/tao200ok?tab=repositories)**
 ***
